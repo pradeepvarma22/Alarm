@@ -27,3 +27,11 @@ Python 3+ Higher version
 
 ```
 
+
+## Run
+
+```python
+Open Cmd
+python alarm.py
+
+```
