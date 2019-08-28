@@ -1,9 +1,14 @@
 import datetime as dt
 import os
+
 hrs = int(input("Enter Time in Hrs- "))
 #min = int(input("Enter Time in Min- "))
 nhr=dt.datetime.now().hour
+if(nhr>12):
+    nhr=nhr-12
+
 count = 0
+print(nhr)
 while(1):
     if hrs == nhr:
         count=1
@@ -11,6 +16,8 @@ while(1):
 if count==1:
     os.system("sample.mp3")
     exit(0)
+
+
 
 
 
