@@ -5,7 +5,6 @@ hrs = int(input("Enter Time in Hrs- "))
 #min = int(input("Enter Time in Min- "))
 
 count = 0
-print(nhr)
 while(1):
     nhr = dt.datetime.now().hour
     if (nhr > 12):
