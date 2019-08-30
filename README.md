@@ -2,7 +2,7 @@
 
 ## TO Do :
 
->add Min hand
+> ~~add Min hand~~
 
 >Twinkler Gui
 
