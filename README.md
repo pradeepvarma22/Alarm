@@ -4,13 +4,15 @@
 
 > ~~add Min hand~~
 
->Twinkler Gui
+>Add AM/PM 
 
 >Online Clock
 
 >.exe 
 
 >Settings
+
+>Twinkler Gui
 
 >Add Custom Music
 
